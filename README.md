@@ -1,3 +1,3 @@
 # python-basics
 
-This repository serves as a public journal while I learn to use python for ML/AI.
+This repository is home to Jupyter Notebooks that explore Python basics with a Data Science theme.
